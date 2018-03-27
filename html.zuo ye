@@ -1,0 +1,32 @@
+<h1>运费详情</h1>
+ <table>
+ 	<tr class = "even">
+ 	  <th>区域</th>
+ 	  <th>寄达地</th>
+ 	  <th class ="money">首重(元/1000g)</th>
+ 	  <th class="money">续重(元/1000g)</th>
+ 	</tr>
+ 	<tr>
+ 	<td rowspan="2">一区</td>
+ 	<td>浙江、上海、江苏</td>
+ 	<td class="money">6</td>
+ 	<td class="money">1</td>
+    </tr>
+    <tr>
+    <td>江西、安徽</td>
+    <td class="money">7</td>
+    <td class="money">1</td>
+    </tr>
+    <tr>
+    <td class="even">二区</td>
+    <td>吉林、黑龙江、云南</td>
+    <td class="money">10</td>
+    <td class="money">6</td>
+    </tr>
+    <tr>
+    <td class="even">三区</td>
+    <td>新疆、西藏</td>
+    <td class="money">15</td>
+    <td class="money">10</td>
+    </tr>
+    </table>	
